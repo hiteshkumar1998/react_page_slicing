@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="254" height="48" viewBox="0 0 254 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f14848;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-size: 14px;
+        font-family: Montserrat-Regular, Montserrat;
+      }
+    </style>
+  </defs>
+  <g id="Group_2114" data-name="Group 2114" transform="translate(-60 -563)">
+    <rect id="Rectangle_1111" data-name="Rectangle 1111" class="cls-1" width="254" height="48" rx="24" transform="translate(60 563)"/>
+    <path id="Icon_metro-google" data-name="Icon metro-google" class="cls-2" d="M22.663,3.856h-6.3c-2.825,0-5.484,2.141-5.484,4.62a4.555,4.555,0,0,0,4.8,4.579c.2,0,.394,0,.584-.018a2.57,2.57,0,0,0-.32,1.177,2.448,2.448,0,0,0,.858,1.741c-.362,0-.711.011-1.093.011-3.5,0-6.193,2.229-6.193,4.54,0,2.276,2.953,3.7,6.453,3.7,3.99,0,6.193-2.264,6.193-4.54a4.395,4.395,0,0,0-2.2-4.1c-.57-.4-1.659-1.384-1.659-1.96,0-.676.193-1.008,1.21-1.8a4.231,4.231,0,0,0,1.78-3.291,3.752,3.752,0,0,0-2.032-3.64h2Zm-2.2,15.417a2.814,2.814,0,0,1,.077.65c0,1.839-1.185,3.277-4.586,3.277-2.419,0-4.166-1.531-4.166-3.371,0-1.8,2.167-3.3,4.586-3.277a5.262,5.262,0,0,1,1.568.251c1.313.913,2.255,1.429,2.521,2.47Zm-3.873-6.861c-1.624-.049-3.167-1.816-3.447-3.948s.808-3.764,2.432-3.716,3.167,1.76,3.447,3.892-.809,3.821-2.432,3.773Z" transform="translate(79.914 573.144)"/>
+    <text id="sign_in_with_gmail" data-name="sign in with gmail" class="cls-3" transform="translate(132 591)"><tspan x="0" y="0">sign in with gmail</tspan></text>
+  </g>
+</svg>

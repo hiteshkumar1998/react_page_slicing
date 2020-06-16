@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="254" height="48" viewBox="0 0 254 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #092da4;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-size: 14px;
+        font-family: Montserrat-Regular, Montserrat;
+      }
+    </style>
+  </defs>
+  <g id="Group_2113" data-name="Group 2113" transform="translate(-60 -499)">
+    <rect id="Rectangle_1112" data-name="Rectangle 1112" class="cls-1" width="254" height="48" rx="24" transform="translate(60 499)"/>
+    <path id="Icon_awesome-facebook-f" data-name="Icon awesome-facebook-f" class="cls-2" d="M11.619,11.25l.555-3.62H8.7V5.282a1.81,1.81,0,0,1,2.041-1.955h1.579V.245A19.254,19.254,0,0,0,9.518,0c-2.86,0-4.73,1.734-4.73,4.872V7.63H1.609v3.62H4.789V20H8.7V11.25Z" transform="translate(87.072 513.469)"/>
+    <text id="sign_in_with_Facebook" data-name="sign in with Facebook" class="cls-3" transform="translate(132 528)"><tspan x="0" y="0">sign in with Facebook</tspan></text>
+  </g>
+</svg>

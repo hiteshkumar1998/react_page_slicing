@@ -1,0 +1,39 @@
+.container{
+    max-width: 414px;
+    height: 736px;
+    border: 1px solid silver;
+}
+.signup_email{
+    height: 47px; 
+    font-size: 26px;
+    border: 1px solid #000000;
+    border-radius: 9px;
+    margin-top: 220px; 
+    letter-spacing:2px; 
+}
+.separator {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-size: 23px;
+}
+.separator::before, .separator::after {
+    content: '';
+    flex: 1;
+    padding-top: 5px;
+    border-bottom: 1px solid silver;
+}
+.separator::before {
+    margin-right: 1.25em;
+    margin-left: 1.45em;
+}
+.separator::after {
+    margin-left: 1.25em;
+    margin-right: 1.45em;
+}
+.registered_text{
+    font-size:21px;
+}
+.skip_text{
+    font-size:20px;
+}

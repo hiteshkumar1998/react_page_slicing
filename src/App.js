@@ -1,25 +1,21 @@
 import React from 'react';
-import logo from './logo.svg';
+import {BrowserRouter as Router, Route} from 'react-router-dom';
 import './App.css';
+import UserRegistration from './pages/UserRegistration.js';
+import EmailUserRegistration from './pages/EmailUserRegistration.js';
+import LoadScreenConsumer from './pages/LoadScreenConsumer.js';
+import LocationPermission from './pages/LocationPermission.js';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div>
+        <Route exact path="/" component = {UserRegistration} />
+        <Route exact path="/email_user_registration" component = {EmailUserRegistration} />
+        <Route exact path="/load_screen_consumer" component = {LoadScreenConsumer} />
+        <Route exact path="/location_permission" component = {LocationPermission} />
+      </div>
+    </Router>
   );
 }
 
