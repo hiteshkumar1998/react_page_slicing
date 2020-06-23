@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.404" height="23.5" viewBox="0 0 24.404 23.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #948f8f;
+        opacity: 0.85;
+      }
+    </style>
+  </defs>
+  <path id="Icon_ionic-md-list-box" data-name="Icon ionic-md-list-box" class="cls-1" d="M26.362,4.5H7.042A2.5,2.5,0,0,0,4.5,6.948v18.6A2.5,2.5,0,0,0,7.042,28h19.32A2.5,2.5,0,0,0,28.9,25.552V6.948A2.5,2.5,0,0,0,26.362,4.5ZM19.752,23.1H9.584V20.167H19.752Zm4.067-5.385H9.584V14.781H23.82Zm0-5.385H9.584V9.4H23.82Z" transform="translate(-4.5 -4.5)"/>
+</svg>
