@@ -1,0 +1,17 @@
+.delivery_options_box{
+    background-color: #f7f7f7;
+    padding: 25px 35px 30px 36px;
+    flex-wrap: wrap;
+}
+.delivery_options_save_btn{
+    background-color: #4da6f1;
+    color: white;
+    border-radius: 10px;
+    height: 60px;
+    width: 100%;
+    font-weight: 500;
+    font-size: 13px;
+    border: 0px;
+    margin-top: 80px;
+    margin-bottom: 100px;
+}

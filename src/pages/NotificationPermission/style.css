@@ -1,0 +1,30 @@
+.combined-text{
+    font-size:19px;
+    font-weight: 500;
+}
+.video-icon{
+    display:flex !important;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.icon-text{
+    flex-basis: 100%;
+}
+
+.footer-btn-left{
+    width: 130px;
+    border:1px solid black;
+}
+.footer-btn-right{
+    width: 130px;
+    background-color: #4da6f1;
+}
+.slick-dots li button:before {
+    color: #4da6f1 !important;
+  }
+.slick-next {
+    right: 0px !important;
+}
+.slick-prev {
+    left: 0px !important;
+}

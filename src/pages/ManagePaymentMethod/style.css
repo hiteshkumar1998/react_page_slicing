@@ -1,0 +1,9 @@
+.header_text{
+    font-size: 18px;
+    font-weight: 500;
+    margin: auto;
+}
+.manage_payment_box_card{
+    background-color: #f7f7f7;
+    padding: 15px 40px 40px 30px;
+}

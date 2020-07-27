@@ -1,0 +1,28 @@
+.notification_reply_btn{
+    border: 0px;
+    color: white;
+    height: 23px;
+    border-radius: 14px;
+    width: 30%;
+    font-size: 12px;
+    background-color: #fa0303;
+}
+.notification_replied_btn{
+    border: 0px;
+    color: white;
+    height: 23px;
+    border-radius: 14px;
+    width: 30%;
+    font-size: 12px;
+    background-color: #4da6f1;
+}
+.notification_box{
+    padding: 15px 15px 15px 35px;
+}
+small, .small {
+    font-size: 60%;
+    font-weight: 400;
+    color: #938e8e;
+    margin-left: -21px;
+    padding-right: 40px;
+}

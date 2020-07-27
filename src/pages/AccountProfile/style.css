@@ -1,0 +1,29 @@
+.main-div{
+    width: 100%;
+    font-size: 18px;
+    font-weight: 500;
+    background-color: #f7f7f7;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+    padding-right: 15px;
+    height: 55px;
+    word-spacing: 4px;
+}
+.navbar_account_profile{
+    background: white;
+    max-width: 414px;
+    display: flex;
+    justify-content: space-around;
+    margin-right: -15px;
+    margin-left: -15px;
+    border-top: 1px solid lightgray;
+    position: fixed;
+    width: 100%;
+    right: 0;
+    bottom: 6px;
+    left: 0;
+    z-index: 1030;
+    margin: 0 auto;
+    padding-top: 10px;
+  }

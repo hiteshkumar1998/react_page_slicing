@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12.879" height="8.671" viewBox="0 0 12.879 8.671">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4da6f1;
+        stroke: #4da6f1;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="noun_back-arrow" transform="matrix(0.035, -0.999, 0.999, 0.035, 1.565, 6.398)">
+    <g id="Group_194" data-name="Group 194" transform="translate(0 0)">
+      <g id="Group_193" data-name="Group 193">
+        <g id="Group_192" data-name="Group 192">
+          <path id="Path_4095" data-name="Path 4095" class="cls-1" d="M4.75,0a.091.091,0,0,0-.068.029L.029,4.683a.1.1,0,0,0,0,.138L4.683,9.474a.1.1,0,0,0,.138-.138L.235,4.751,4.82.165a.1.1,0,0,0,0-.138A.105.105,0,0,0,4.75,0Z" transform="translate(0 0)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

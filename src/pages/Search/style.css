@@ -1,0 +1,15 @@
+
+.search_btn{
+    font-size: 12px;
+    border-radius: 32px;
+    width: 70px;
+    height: 30px;
+}
+.default_btn{
+    border: 1px solid #707070;
+    border-radius: 32px;
+    height: 30px;
+    padding-bottom: -9px;
+    font-size: 12px;
+    font-weight: 500;
+}

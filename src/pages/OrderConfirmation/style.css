@@ -1,0 +1,82 @@
+.status_text{
+    font-size: 18px;
+    font-weight: 500;
+    margin: auto;
+    padding-right: 50px;
+}
+.social_icon_text{
+    font-size: 12px;
+}
+.social_icon_box{
+    padding: 10px 40px 5px 40px;
+}
+.order_box{
+    padding: 25px 10px 25px 10px;
+}
+.ruppees_btn{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    height: 31px;
+    width: 80px;
+    font-weight: 500;
+    font-size: 13px;
+    margin-left: 82px;
+}
+.order_total_payment_text{
+    font-size: 20px;
+    font-weight: 500;
+}
+.payment_total_div{
+    background-color: #f7f7f7;
+    padding: 0px 15px 15px 15px;
+}
+.payment_total_div_inner{
+    background-color: black;
+    color: white;
+    padding: 5px 15px 5px 15px;
+    border-radius: 10px;
+}
+.payment_box{
+    background-color: #f7f7f7;
+    padding: 25px 25px 14px 25px;
+}
+.return_policy_div{
+    background-color: #f7f7f7;
+    margin-top: 30px;
+    font-weight: 500;
+    border-radius: 10px;
+}
+.order_shipping_detail{
+    padding: 0px 15px 0px 15px;
+    display: inline-flex;
+    flex-direction: column;
+}
+.shipping_progress_main{
+    width: 25px;
+  height: 25px;
+  background-color: #fff;
+  border-radius: 50%;
+  border:1px solid #707070 ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.shipping_progress_inner{
+  background-color: #4da6f1;
+  width: 17px;
+  height: 19px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.separator {
+    width: 1px;
+    height: 22px;
+    background-color: black;
+    align-self: center;
+  }
+  .time_text{
+      padding-bottom: 23px;
+  }

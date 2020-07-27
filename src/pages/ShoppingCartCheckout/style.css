@@ -1,0 +1,10 @@
+.shopping_cart_checkout_btn{
+    background-color: #4da6f1;
+    color: white;
+    border-radius: 10px;
+    height: 50px;
+    width: 100%;
+    font-size: 20px;
+    border: 0px;
+    margin-top: 10px;
+}

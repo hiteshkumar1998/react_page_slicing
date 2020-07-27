@@ -1,0 +1,50 @@
+.account_information_form{
+  padding: 55px 15px 14px 15px;
+}
+.account_information_form > input[type="text"] {
+    border: 1px solid #bdbfc2;
+    padding: 5px 15px 5px 15px;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  .account_information_form > ::placeholder {
+    color: black;
+    font-size: 12px;
+    font-weight: 500;
+  }
+  .phone_number {
+    border: 1px solid #bdbfc2;
+    padding: 5px 15px 5px 15px;
+    width: 300px;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  .account_info_save_btn {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    height: 45px;
+    width: 80%;
+    font-weight: 500;
+    font-size: 13px;
+  }
+  .button_div{
+    height: 130px;
+    margin-top: 199px;
+  }
+  .navbar{
+    background: white;
+    max-width: 414px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: -15px;
+    margin-left: -15px;
+    border-top: 3px solid #f7f7f7;
+    position: fixed;
+    width: 100%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1030;
+    margin: 0 auto;
+  }

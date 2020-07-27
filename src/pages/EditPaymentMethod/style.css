@@ -1,0 +1,22 @@
+.edit_payment_method_save_btn{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    height: 45px;
+    width: 83%;
+    font-weight: 500;
+    font-size: 13px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+.edit_payment_method_cancel_btn{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    height: 45px;
+    width: 83%;
+    font-weight: 500;
+    font-size: 13px;
+    margin-bottom: 40px;
+    border:1px solid black;
+}
